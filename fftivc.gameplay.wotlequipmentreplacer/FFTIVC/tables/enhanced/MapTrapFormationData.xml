@@ -43,6 +43,29 @@ For available flags, refer to https://github.com/Nenkai/fftivc.utility.modloader
       <RareItemId4>150</RareItemId4>
       <CommonItemId4>241</CommonItemId4>
     </MapTrapFormation>
+	<MapTrapFormation>
+	  <Id>31</Id> <!--  Dorter / 貿易都市ドーター / Cité marchande de Dorter / Handelsstadt Dorter  -->
+	  <X1>0</X1>
+	  <Y1>1</Y1>
+	  <TrapFlags1>DisableTrap</TrapFlags1>
+	  <RareItemId1>85</RareItemId1>
+	  <CommonItemId1>240</CommonItemId1>
+	  <X2>2</X2>
+	  <Y2>6</Y2>
+	  <TrapFlags2>DisableTrap</TrapFlags2>
+	  <RareItemId2>122</RareItemId2>
+	  <CommonItemId2>241</CommonItemId2>
+	  <X3>8</X3>
+	  <Y3>4</Y3>
+	  <TrapFlags3>DisableTrap</TrapFlags3>
+	  <RareItemId3>243</RareItemId3>
+	  <CommonItemId3>245</CommonItemId3>
+	  <X4>8</X4>
+	  <Y4>10</Y4>
+	  <TrapFlags4>DisableTrap</TrapFlags4>
+	  <RareItemId4>147</RareItemId4>
+	  <CommonItemId4>248</CommonItemId4>
+    </MapTrapFormation>
     <MapTrapFormation>
       <Id>32</Id> <!-- Dorter Slums / ドーターのスラム / Bas quartiers de Dorter / Dorter-Slums -->
       <X1>0</X1>
@@ -203,29 +226,6 @@ For available flags, refer to https://github.com/Nenkai/fftivc.utility.modloader
       <TrapFlags4>DisableTrap</TrapFlags4>
       <RareItemId4>245</RareItemId4>
       <CommonItemId4>247</CommonItemId4>
-    </MapTrapFormation>
-    <MapTrapFormation>
-      <Id>88</Id> <!-- Finnath Creek / フィナス河 / Delta de Finnath / Finnath-Strom -->
-      <X1>1</X1>
-      <Y1>5</Y1>
-      <TrapFlags1>DisableTrap</TrapFlags1>
-      <RareItemId1>117</RareItemId1>
-      <CommonItemId1>249</CommonItemId1>
-      <X2>2</X2>
-      <Y2>1</Y2>
-      <TrapFlags2>DisableTrap</TrapFlags2>
-      <RareItemId2>245</RareItemId2>
-      <CommonItemId2>253</CommonItemId2>
-      <X3>3</X3>
-      <Y3>14</Y3>
-      <TrapFlags3>DisableTrap</TrapFlags3>
-      <RareItemId3>165</RareItemId3>
-      <CommonItemId3>240</CommonItemId3>
-      <X4>9</X4>
-      <Y4>4</Y4>
-      <TrapFlags4>DisableTrap</TrapFlags4>
-      <RareItemId4>195</RareItemId4>
-      <CommonItemId4>241</CommonItemId4>
     </MapTrapFormation>
     <MapTrapFormation>
       <Id>103</Id> <!-- Windflat Mill / 風車小屋 / Moulin de Fovoham / Bei der Mühle -->

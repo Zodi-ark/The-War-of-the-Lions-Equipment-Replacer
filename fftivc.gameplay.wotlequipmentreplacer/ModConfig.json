@@ -1,5 +1,5 @@
 {
-  "ModId": "fftivc.content.wotlequipmentreplacer",
+  "ModId": "fftivc.gameplay.wotlequipmentreplacer",
   "ModName": "The War of the Lions Equipment Replacer",
   "ModAuthor": "Zodiark",
   "ModVersion": "0.9.0",
@@ -14,10 +14,10 @@
   "CanUnload": null,
   "HasExports": null,
   "IsLibrary": false,
-  "ReleaseMetadataFileName": "fftivc.content.wotlequipmentreplacer.ReleaseMetadata.json",
+  "ReleaseMetadataFileName": "fftivc.gameplay.wotlequipmentreplacer.ReleaseMetadata.json",
   "IgnoreRegexes": [
     ".*\\.json",
-    "fftivc\\.content\\.BalmungandTynarRouge\\.nuspec"
+    "fftivc\\.gameplay\\.wotlequipmentreplacer\\.nuspec"
   ],
   "IncludeRegexes": [
     "\\.deps\\.json",

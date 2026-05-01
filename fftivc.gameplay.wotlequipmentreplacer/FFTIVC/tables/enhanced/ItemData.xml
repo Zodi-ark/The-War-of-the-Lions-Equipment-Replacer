@@ -98,12 +98,12 @@ For available flags, refer to https://github.com/Nenkai/fftivc.utility.modloader
 	  
   <!--  Item Range: Shields  -->
    <Item>
-	  <Id>137</Id> <!-- Reverie Shield (Diamond Shield) -->
+	  <Id>131</Id> <!-- Reverie Shield (Round Shield) -->
 	  <Palette>20</Palette>
 	  <SpriteID>72</SpriteID>
-	  <RequiredLevel>85</RequiredLevel>
-	  <TypeFlags>Shield</TypeFlags>
-	  <AdditionalDataId>9</AdditionalDataId> <!--  ItemShieldData id  -->
+	  <RequiredLevel>0</RequiredLevel>
+	  <TypeFlags>Rare, Shield</TypeFlags>
+	  <AdditionalDataId>3</AdditionalDataId> <!--  ItemShieldData id  -->
 	  <ItemCategory>Shield</ItemCategory>
 	  <Unused_0x06>0</Unused_0x06>
 	  <EquipBonusId>75</EquipBonusId>

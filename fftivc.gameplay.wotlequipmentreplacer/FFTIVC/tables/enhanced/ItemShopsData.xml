@@ -65,7 +65,7 @@ For available flags, refer to https://github.com/Nenkai/fftivc.utility.modloader
 	  <Shops>None</Shops>
 	</ItemShops>
 	<ItemShops>
-	  <Id>137</Id> <!-- Reverie Shield (Diamond Shield) -->
+	  <Id>131</Id> <!-- Reverie Shield (Round Shield) -->
 	  <Shops>None</Shops>
 	</ItemShops>
 	<ItemShops>
