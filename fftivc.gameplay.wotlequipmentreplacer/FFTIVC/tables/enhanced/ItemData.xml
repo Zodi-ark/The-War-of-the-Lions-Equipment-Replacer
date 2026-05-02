@@ -43,7 +43,7 @@ For available flags, refer to https://github.com/Nenkai/fftivc.utility.modloader
       <Id>20</Id> <!-- Chaosbringer (Longsword) -->
       <Palette>12</Palette>
       <SpriteID>14</SpriteID>
-      <RequiredLevel>66</RequiredLevel>
+      <RequiredLevel>50</RequiredLevel>
       <TypeFlags>Weapon</TypeFlags>
       <AdditionalDataId>20</AdditionalDataId> <!-- ItemWeaponData id -->
       <ItemCategory>KnightSword</ItemCategory>
@@ -57,7 +57,7 @@ For available flags, refer to https://github.com/Nenkai/fftivc.utility.modloader
 	  <Id>31</Id>b <!--  Ras Algethi (Nagnarok)  -->
 	  <Palette>8</Palette>
 	  <SpriteID>44</SpriteID>
-	  <RequiredLevel>74</RequiredLevel>
+	  <RequiredLevel>55</RequiredLevel>
 	  <TypeFlags>Weapon</TypeFlags>
 	  <AdditionalDataId>31</AdditionalDataId> <!--  ItemWeaponData id  -->
 	  <ItemCategory>Gun</ItemCategory>
@@ -145,7 +145,7 @@ For available flags, refer to https://github.com/Nenkai/fftivc.utility.modloader
 	  <Id>187</Id> <!--  Mirage Vest (Leather Clothing)  -->
 	  <Palette>0</Palette>
 	  <SpriteID>124</SpriteID>
-	  <RequiredLevel>42</RequiredLevel>
+	  <RequiredLevel>75</RequiredLevel>
 	  <TypeFlags>Armor</TypeFlags>
 	  <AdditionalDataId>43</AdditionalDataId> <!--  ItemArmorData id  -->
 	  <ItemCategory>Clothing</ItemCategory>
@@ -158,12 +158,12 @@ For available flags, refer to https://github.com/Nenkai/fftivc.utility.modloader
 	  
   <!--  Item Range: Accessories  -->
    <Item>
-	  <Id>221</Id> <!--  Tynar Rouge (Magick Ring)  -->
+	  <Id>211</Id> <!--  Tynar Rouge (Rubber Boots)  -->
 	  <Palette>18</Palette>
 	  <SpriteID>158</SpriteID>
 	  <RequiredLevel>0</RequiredLevel>
 	  <TypeFlags>Rare, Accessory</TypeFlags>
-	  <AdditionalDataId>13</AdditionalDataId> <!--  ItemAccesoryData Id  -->
+	  <AdditionalDataId>3</AdditionalDataId> <!--  ItemAccesoryData Id  -->
 	  <ItemCategory>Perfume</ItemCategory>
 	  <Unused_0x06>0</Unused_0x06>
 	  <EquipBonusId>74</EquipBonusId>

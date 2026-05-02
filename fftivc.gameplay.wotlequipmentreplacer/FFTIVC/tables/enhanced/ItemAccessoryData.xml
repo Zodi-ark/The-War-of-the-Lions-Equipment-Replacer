@@ -25,7 +25,7 @@ For available flags, refer to https://github.com/Nenkai/fftivc.utility.modloader
   <Version>1</Version>
   <Entries>
     <ItemAccessory>
-      <Id>13</Id> <!-- Tynar Rouge (Magick Ring)  -->
+      <Id>3</Id> <!-- Tynar Rouge (Rubber Boots)  -->
       <PhysicalEvasion>0</PhysicalEvasion>
       <MagicalEvasion>0</MagicalEvasion>
     </ItemAccessory>

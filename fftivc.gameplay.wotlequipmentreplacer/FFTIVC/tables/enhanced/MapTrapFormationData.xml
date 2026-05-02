@@ -42,7 +42,30 @@ For available flags, refer to https://github.com/Nenkai/fftivc.utility.modloader
       <TrapFlags4>DisableTrap</TrapFlags4>
       <RareItemId4>150</RareItemId4>
       <CommonItemId4>241</CommonItemId4>
-    </MapTrapFormation>
+	</MapTrapFormation>
+	<MapTrapFormation>
+	  <Id>12</Id> <!--  Lionel Castle Gate / ライオネル城 城門前 / Portes du château de Lionel / Am Tor von Schloss Lionel  -->
+	  <X1>1</X1>
+	  <Y1>7</Y1>
+	  <TrapFlags1>DisableTrap</TrapFlags1>
+	  <RareItemId1>178</RareItemId1>
+	  <CommonItemId1>240</CommonItemId1>
+	  <X2>2</X2>
+	  <Y2>1</Y2>
+	  <TrapFlags2>DisableTrap</TrapFlags2>
+	  <RareItemId2>192</RareItemId2>
+	  <CommonItemId2>241</CommonItemId2>
+	  <X3>2</X3>
+	  <Y3>12</Y3>
+	  <TrapFlags3>DisableTrap</TrapFlags3>
+	  <RareItemId3>202</RareItemId3>
+	  <CommonItemId3>243</CommonItemId3>
+	  <X4>3</X4>
+	  <Y4>7</Y4>
+	  <TrapFlags4>DisableTrap</TrapFlags4>
+	  <RareItemId4>245</RareItemId4>
+	  <CommonItemId4>248</CommonItemId4>
+	</MapTrapFormation>
 	<MapTrapFormation>
 	  <Id>31</Id> <!--  Dorter / 貿易都市ドーター / Cité marchande de Dorter / Handelsstadt Dorter  -->
 	  <X1>0</X1>
@@ -111,52 +134,6 @@ For available flags, refer to https://github.com/Nenkai/fftivc.utility.modloader
       <TrapFlags4>DisableTrap</TrapFlags4>
       <RareItemId4>245</RareItemId4>
       <CommonItemId4>247</CommonItemId4>
-    </MapTrapFormation>
-    <MapTrapFormation>
-      <Id>36</Id> <!-- Outlying Church / 町外れの教会 / Église isolée / Kirche am Stadtrand -->
-      <X1>2</X1>
-      <Y1>8</Y1>
-      <TrapFlags1>DisableTrap</TrapFlags1>
-      <RareItemId1>204</RareItemId1>
-      <CommonItemId1>243</CommonItemId1>
-      <X2>4</X2>
-      <Y2>4</Y2>
-      <TrapFlags2>DisableTrap</TrapFlags2>
-      <RareItemId2>245</RareItemId2>
-      <CommonItemId2>252</CommonItemId2>
-      <X3>4</X3>
-      <Y3>5</Y3>
-      <TrapFlags3>DisableTrap</TrapFlags3>
-      <RareItemId3>226</RareItemId3>
-      <CommonItemId3>249</CommonItemId3>
-      <X4>7</X4>
-      <Y4>4</Y4>
-      <TrapFlags4>DisableTrap</TrapFlags4>
-      <RareItemId4>8</RareItemId4>
-      <CommonItemId4>253</CommonItemId4>
-    </MapTrapFormation>
-    <MapTrapFormation>
-      <Id>47</Id> <!-- Sal Ghidos / 貿易都市ザーギドス / Cité marchande de Zarghidos / Marktstadt Sal Ghidos -->
-      <X1>0</X1>
-      <Y1>2</Y1>
-      <TrapFlags1>DisableTrap</TrapFlags1>
-      <RareItemId1>219</RareItemId1>
-      <CommonItemId1>250</CommonItemId1>
-      <X2>0</X2>
-      <Y2>9</Y2>
-      <TrapFlags2>DisableTrap</TrapFlags2>
-      <RareItemId2>220</RareItemId2>
-      <CommonItemId2>251</CommonItemId2>
-      <X3>0</X3>
-      <Y3>10</Y3>
-      <TrapFlags3>DisableTrap</TrapFlags3>
-      <RareItemId3>229</RareItemId3>
-      <CommonItemId3>252</CommonItemId3>
-      <X4>9</X4>
-      <Y4>12</Y4>
-      <TrapFlags4>DisableTrap</TrapFlags4>
-      <RareItemId4>223</RareItemId4>
-      <CommonItemId4>253</CommonItemId4>
     </MapTrapFormation>
     <MapTrapFormation>
       <Id>74</Id> <!-- The Siedge Weald / スウィージの森 / Futaie de Suigy / Siedge-Wald -->
@@ -249,6 +226,54 @@ For available flags, refer to https://github.com/Nenkai/fftivc.utility.modloader
       <TrapFlags4>DisableTrap</TrapFlags4>
       <RareItemId4>4</RareItemId4>
       <CommonItemId4>241</CommonItemId4>
-    </MapTrapFormation>
+	</MapTrapFormation>
+	<MapTrapFormation>
+		<Id>113</Id>
+		<!--  HORROR / HORROR / L'horreur / GRAUEN  -->
+		<X1>1</X1>
+		<Y1>3</Y1>
+		<TrapFlags1>SteelNeedle</TrapFlags1>
+		<RareItemId1>3</RareItemId1>
+		<CommonItemId1>253</CommonItemId1>
+		<X2>2</X2>
+		<Y2>0</Y2>
+		<TrapFlags2>SleepingGas</TrapFlags2>
+		<RareItemId2>185</RareItemId2>
+		<CommonItemId2>253</CommonItemId2>
+		<X3>8</X3>
+		<Y3>4</Y3>
+		<TrapFlags3>Deathtrap</TrapFlags3>
+		<RareItemId3>156</RareItemId3>
+		<CommonItemId3>253</CommonItemId3>
+		<X4>8</X4>
+		<Y4>5</Y4>
+		<TrapFlags4>Deathtrap</TrapFlags4>
+		<RareItemId4>142</RareItemId4>
+		<CommonItemId4>253</CommonItemId4>
+	</MapTrapFormation>
+	<MapTrapFormation>
+		<Id>114</Id>
+		<!--  END / END / La fin / ENDE  -->
+		<X1>5</X1>
+		<Y1>10</Y1>
+		<TrapFlags1>DisableTrap</TrapFlags1>
+		<RareItemId1>229</RareItemId1>
+		<CommonItemId1>253</CommonItemId1>
+		<X2>5</X2>
+		<Y2>12</Y2>
+		<TrapFlags2>DisableTrap</TrapFlags2>
+		<RareItemId2>47</RareItemId2>
+		<CommonItemId2>253</CommonItemId2>
+		<X3>7</X3>
+		<Y3>10</Y3>
+		<TrapFlags3>DisableTrap</TrapFlags3>
+		<RareItemId3>37</RareItemId3>
+		<CommonItemId3>253</CommonItemId3>
+		<X4>7</X4>
+		<Y4>12</Y4>
+		<TrapFlags4>DisableTrap</TrapFlags4>
+		<RareItemId4>211</RareItemId4>
+		<CommonItemId4>253</CommonItemId4>
+	</MapTrapFormation>
   </Entries>
 </MapTrapFormationTable>
